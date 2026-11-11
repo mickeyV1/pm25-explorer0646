@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data Science Toolbox
+data/
+*.duckdb
+*.duckdb.wal
+.env
